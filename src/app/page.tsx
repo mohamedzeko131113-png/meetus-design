@@ -150,8 +150,8 @@ export default function LoginPage() {
 
             <button className="h-11 w-full cursor-pointer rounded-lg bg-[#9414FF] text-white">Login</button>
           </div>
+          <p className="text-center text-sm text-[#626168]">Don&apos;t have an account?<span>Sign up</span></p>
 
-          <p className="text-center text-sm text-[#626168]">Don't have an account? <span>Sign up</span></p>
         </div>
       </div>
     </div>
